@@ -1,4 +1,5 @@
 # InitProgramming
+
 ##Text
  Text is the basic source of any programming languague that is stored , retrived and ordered to a specific place. Texts can be catagorized into many, from them i am going to be mentioning a few: Markdown, HTML and Latex. 
 ## Calculator
